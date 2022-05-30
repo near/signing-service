@@ -1,0 +1,11 @@
+{
+  "name": "@signing-service/monorepo",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ],
+  "devDependencies": {
+    "lerna": "^5.0.0"
+  }
+}
