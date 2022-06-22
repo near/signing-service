@@ -1,1 +1,1 @@
-export default 'todo';
+export default 'todos';
