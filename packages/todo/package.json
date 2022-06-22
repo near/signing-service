@@ -1,6 +1,6 @@
 {
   "name": "@morgs-testing/todo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "license": "MIT",
   "gitHead": "446573674087c77c3119c52291cd07a3e5ed92c7"
