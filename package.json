@@ -1,5 +1,5 @@
 {
-  "name": "@signing-service/monorepo",
+  "name": "@morgs-testing/monorepo",
   "private": true,
   "workspaces": [
     "packages/*",
